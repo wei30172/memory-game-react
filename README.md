@@ -2,7 +2,9 @@
 
 Used React to build a memory game.
 
-## Project Screen Shot
+## Project Screen Shots
+<img width="450" alt="react-memory-game1" src="https://user-images.githubusercontent.com/60259324/180373591-1f745f37-522e-4ff8-8299-b735e93649fa.png">
+<img width="450" alt="react-memory-game2" src="https://user-images.githubusercontent.com/60259324/180373593-3060e09c-21e0-4b86-af8a-6e8b52b155a1.png">
 
 ## Reference
 [Build Tetris with JavaScript and React](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iQ7g2eoNXHCJBBBz40S_Lm)
